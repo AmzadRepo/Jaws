@@ -1,14 +1,13 @@
-# Java API for WordNet Searching (JAWS)
+# Java API for Searching the Synonyms (Finvasia Company)
 
-Current Version: 1.3.1
+Current Version: 0.0.1
 
-[![Release](https://jitpack.io/v/jaytaylor/jaws.svg)](https://jitpack.io/#jaytaylor/jaws)
 
 ## How this came to be
 
-JAWS was originally written and created by Brett Spell.
+This API is originally written and created by Amzad.
 
-I ([Jay Taylor](http://jaytaylor.com)) have done my best to resurrect this code and its corresponding documentation (with the help of both Brett Spell and archive.org).
+I ([Amzad](itsamzad@gmail.com)) have done my best to resurrect this code and its corresponding documentation.
 
 ## How to use this repository
 
@@ -16,7 +15,7 @@ I ([Jay Taylor](http://jaytaylor.com)) have done my best to resurrect this code 
 
 Add the https://jitpack.io/ repository to your POM file and declare this github repo as a dependency.
 
-See the jitpack [JAWS package page](https://jitpack.io/#jaytaylor/jaws) for more information and instructions for other dependency managers (e.g. SBT, gradle, etc).
+See the jitpack [Finvasia package page](https://jitpack.io/#jaytaylor/jaws) for more information and instructions for other dependency managers (e.g. SBT, gradle, etc).
 
 Example:
 
@@ -134,8 +133,7 @@ A small sample program is available for download [here](TestJAWS.java) that demo
 
 ### Changes
 
-* December 24, 2009 -- Updated example to show how to retrieve hyponyms.
-* June 20, 2009 -- Bug fix and new convenience methods for head and satellite synsets.
-* July 21, 2008 -- Support derivational form retrieval for all synset types.
-* February 13, 2008 -- Removed unused code
+* November 17, 2023 -- Updated example to get how to retrieve SYNONYMS.
+* November 18, 2023 -- Bug fix and new convenience methods for head and other Databases Code.
+* November 19, 2023 -- Removed unused code and documentation creation.
 
