@@ -1,6 +1,6 @@
 # Java API for Searching the Synonyms (Finvasia Company)
 
-Current Version: 0.0.1
+Current Version: 1.1
 
 
 ## How this came to be
